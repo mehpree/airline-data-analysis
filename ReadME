@@ -1,0 +1,14 @@
+Airline Analysis
+The primary focus of this analysis is to investigate the relationship between the on-time flights, delays, causes of delays over a period of 5 years.
+We will explore whether certain months exhibit higher or lower on-time flight rates and identify any seasonal variations that may influence airline performance.
+Throughout the presentation, we will present visualizations, such as scatter plots and regression lines, to illustrate the patterns and correlations uncovered in the data. These visual representations will help us communicate our findings effectively and facilitate a comprehensive understanding of the on-time performance of airlines.
+
+1.	Which airlines have the highest on-time performance? Given that the r-value is below 0.3, it indicates a significantly weak correlation between the Month of a particular year and the on-time performance of an airline. In 2019, the on-time performance was higher, which could be attributed to the limited number of flights operating throughout the year. However, there is a noticeable decline in on-time performance in 2022, potentially due to the dataset containing information for only half of the year.
+2.	What are the main causes for delays? Through each of the airlines, the leading cause of delays is a NAS delay. The type of weather delays referred to as "NAS" are delays or cancellations that could be minimized through corrective measures taken by either the airports or the Federal Aviation Administration. 
+Based on the continuous advancements in technology aimed at mitigating or enhancing weather-avoidance capabilities, it can be inferred that delayed flights would experience improvement.
+3.	Would the travel delays be affected by the month of the year? After analysing the data from three different airlines for their individual arrival and departure delays, we can draw the following conclusions:-
+•	The delays are inconsistent in Q1 and Q4.
+•	The number of delays increases in Q2 and gradually decreases in Q3
+•	The graphs for most of the graphs show a positive relationship between the month and the delays. This means that the number of delays increases are we near the end of the year
+4.	Are certain routes more prone to delays than others? Upon examining the data, it becomes apparent that the travel route from Raleigh-Durham International to Newark Liberty International experiences the highest average delay. Additionally, there is a notable increase in delays across all analyzed airlines and selected routes during the month of August.
+
