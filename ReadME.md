@@ -1,3 +1,5 @@
+
+![image](https://github.com/mehpree/project1_group10/assets/131678606/d23e91bd-63ab-45c3-a1e9-205d886b6cd7)
 ## Overview
 
 Welcome to the Airline Analysis project! This README file provides an overview of the key objectives, findings, and insights derived from our analysis of airline performance data over a period of 5 years. Our primary focus was to investigate the relationship between on-time flights, delays, and the causes of delays. Through this analysis, we aim to answer important questions regarding airline performance and help stakeholders make informed decisions.
