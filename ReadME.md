@@ -8,7 +8,7 @@ Welcome to the Airline Analysis project! This README file provides an overview o
 
 * [Manpreet Sharma](https://github.com/mehpree)
 * [Emily Pensrose](https://github.com/EPenrose)
-* [Ismail Illahi](https://github.com/ismailellahi)
+* [Ismail Ellahi](https://github.com/ismailellahi)
 * [Lekshmi Lal](https://github.com/Lex1996)
 
 ## Project Objectives
